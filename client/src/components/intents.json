@@ -1,0 +1,139 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good day",
+        "What's up?"
+      ],
+      "responses": [
+        "Hello! Welcome to ChainShare, your decentralized file sharing platform.",
+        "Hi there! How can I assist you with ChainShare today?",
+        "Hey! Ready to share securely?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Goodbye",
+        "See you",
+        "Bye",
+        "Catch you later"
+      ],
+      "responses": [
+        "Goodbye! Come back to ChainShare anytime.",
+        "See you soon! Stay secure.",
+        "Bye! Happy sharing."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thank you",
+        "Thanks",
+        "Much appreciated",
+        "Thanks a lot"
+      ],
+      "responses": [
+        "You're welcome! Happy to help with ChainShare.",
+        "Anytime! If you need more help, I'm here.",
+        "Glad I could assist you!"
+      ]
+    },
+    {
+      "tag": "platform_overview",
+      "patterns": [
+        "What is ChainShare?",
+        "Tell me about ChainShare",
+        "How does ChainShare work?",
+        "What can I do with ChainShare?"
+      ],
+      "responses": [
+        "ChainShare is a decentralized file-sharing platform built using blockchain technology. It allows you to securely share files without relying on a central authority.",
+        "ChainShare lets you share files in a decentralized way, ensuring security and privacy through blockchain.",
+        "With ChainShare, you can securely share files on a decentralized network using blockchain technology."
+      ]
+    },
+    {
+      "tag": "security",
+      "patterns": [
+        "Is ChainShare secure?",
+        "How secure is ChainShare?",
+        "What security features does ChainShare have?"
+      ],
+      "responses": [
+        "ChainShare is built with security as a priority. It uses blockchain technology to ensure your files are shared securely and privately.",
+        "Your files on ChainShare are protected by the security of blockchain, ensuring they remain private and secure.",
+        "ChainShare's decentralized nature and blockchain integration make it highly secure for file sharing."
+      ]
+    },
+    {
+      "tag": "how_to_use",
+      "patterns": [
+        "How do I use ChainShare?",
+        "How can I share files on ChainShare?",
+        "How do I start using ChainShare?"
+      ],
+      "responses": [
+        "To use ChainShare, simply upload your files, and they will be securely shared on the decentralized network. You can also receive files in the same secure manner.",
+        "Sharing files on ChainShare is easy. Upload your file, and the platform will handle the rest securely.",
+        "Start using ChainShare by uploading your files to the decentralized network. It's secure and straightforward!"
+      ]
+    },
+    {
+      "tag": "tech_stack",
+      "patterns": [
+        "What technologies does ChainShare use?",
+        "Tell me about the tech stack of ChainShare",
+        "Which technologies are behind ChainShare?"
+      ],
+      "responses": [
+        "ChainShare is powered by Solidity for smart contracts, React JS for the frontend, Ether.js for blockchain interactions, and AI for enhanced user experience.",
+        "The tech stack for ChainShare includes Solidity, React JS, Ether.js, and AI to create a secure and user-friendly decentralized file-sharing platform.",
+        "ChainShare leverages Solidity, React JS, Ether.js, and AI to provide a cutting-edge decentralized file-sharing experience."
+      ]
+    },
+    {
+      "tag": "file_encryption",
+      "patterns": [
+        "Does ChainShare use encryption?",
+        "Are files encrypted on ChainShare?",
+        "How are my files protected on ChainShare?"
+      ],
+      "responses": [
+        "Yes, ChainShare uses encryption to protect your files, ensuring they are secure during the sharing process.",
+        "Files on ChainShare are encrypted, adding an extra layer of security to your shared content.",
+        "Your files are encrypted on ChainShare, making sure they remain secure and private."
+      ]
+    },
+    {
+      "tag": "decentralization",
+      "patterns": [
+        "What does decentralized mean?",
+        "Why is ChainShare decentralized?",
+        "What's the benefit of decentralization in ChainShare?"
+      ],
+      "responses": [
+        "Decentralization in ChainShare means that there is no central authority controlling the file-sharing process. This ensures greater security, privacy, and resistance to censorship.",
+        "ChainShare is decentralized to provide a more secure, private, and resilient file-sharing platform. No single entity controls your data.",
+        "Decentralization ensures that ChainShare operates securely without relying on a central authority, enhancing privacy and reducing the risk of data breaches."
+      ]
+    },
+    {
+      "tag": "support",
+      "patterns": [
+        "I need help with ChainShare",
+        "Who can I contact for support?",
+        "Is there any support available?"
+      ],
+      "responses": [
+        "I'm here to help with any ChainShare-related questions! If you need further assistance, you can contact our support team.",
+        "You can get help right here, or reach out to our support team for more detailed assistance with ChainShare.",
+        "Support is available anytime you need it! Just ask, and I'll assist you with ChainShare."
+      ]
+    }
+  ]
+}
