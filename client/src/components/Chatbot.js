@@ -6,7 +6,7 @@ import ChatbotHeader from './ChatbotHeader';
 import './Chatbot.css'; 
 import intents from "./intents.json";
 
-const API_KEY = "AIzaSyDTlqDmL5EiXq8kCpPcFivuXss0a8QJ5BQ"; 
+const API_KEY = "your_api_key"; 
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}`;
 
 const Chatbot = () => {
